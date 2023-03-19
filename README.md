@@ -8,4 +8,4 @@
 
 # Input:
 
-Paste the stories one-by-one into a 
+Paste the stories one-by-one into your file, separated by pipe (|) characters. The script will number the stories starting at one and calculate their readability scores.
